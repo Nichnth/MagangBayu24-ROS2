@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Nicholas Abel Nathaniel\
+NRP     : 5025231098
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
